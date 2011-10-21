@@ -19,4 +19,5 @@ Usage:
 
 Example:
  <img src="img/load.gif" alt="Beautiful Sunrise" title="data/images/sunrise.jpg" />
+ <img src="" alt="Beautiful Sunrise" title="data/images/sunrise.jpg" />
  
