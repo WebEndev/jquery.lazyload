@@ -1,0 +1,22 @@
+Lazy Load - jQuery plugin for lazy loading images
+
+Copyright (c) 2007-2009 Mika Tuupola
+
+Licensed under the MIT license:
+ http://www.opensource.org/licenses/mit-license.php
+ 
+Project home:
+ http://www.appelsiini.net/projects/lazyload
+ 
+Version:  1.5.0
+ 
+ 
+UPDATE 11 Oct 2011: Cyril (www.yatahonga.com) With the update it really delays the image loading from server (no HTTP request before appearing) and HTML code remains XHTML 1.0 / 1.1 valid
+
+Usage: 
+ src: your "preloading" image
+ title: URL of the image
+
+Example:
+ <img src="img/load.gif" alt="Beautiful Sunrise" title="data/images/sunrise.jpg" />
+ 
